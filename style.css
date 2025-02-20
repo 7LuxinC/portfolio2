@@ -1,0 +1,49 @@
+h1{
+    color: red;
+}
+
+
+
+h1:hover{
+    background-color: pink;
+}
+
+
+p{
+    background-color:#dddddd;
+    border-radius: 5%;
+}
+
+
+#example{
+    position : absolute;
+    /* will be move to left */
+    left : 0;
+}
+
+.textSection{
+    font-family: 'Courier New', Courier, monospace;    
+}
+
+.flexSection{
+    display: flex;
+}
+
+
+table{
+    border:2px, solid, black;
+}
+
+
+td{
+    border:2px, solid, black;
+}
+
+tr:nth-child(odd){
+    background-color: #dddddd;
+}
+
+
+img{
+    border-radius:10%;
+}
